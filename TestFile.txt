@@ -5,3 +5,4 @@ Sugar
 Salt
 Tissue
 Bucket
+Tin
