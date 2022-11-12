@@ -4,3 +4,5 @@ I think we'll use the "fixes" buzz word just to try this feature which 'fixes' r
 And DO NOT forget to comment with a reference number in the ISSUE tab comments with number to notify the person that you fixed the problem!
 
 Whoops!! The buzzword "fixes" should be on the title bit!
+
+This fixes issue #3 did not work, let's try "fixes #3" //just the issue and id!
